@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/memories-ghpages/static/css/main.b13088e0.chunk.css",
+    "main.js": "/memories-ghpages/static/js/main.2082d0e1.chunk.js",
+    "main.js.map": "/memories-ghpages/static/js/main.2082d0e1.chunk.js.map",
+    "runtime-main.js": "/memories-ghpages/static/js/runtime-main.a9f48d74.js",
+    "runtime-main.js.map": "/memories-ghpages/static/js/runtime-main.a9f48d74.js.map",
+    "static/js/2.f2ea064c.chunk.js": "/memories-ghpages/static/js/2.f2ea064c.chunk.js",
+    "static/js/2.f2ea064c.chunk.js.map": "/memories-ghpages/static/js/2.f2ea064c.chunk.js.map",
+    "index.html": "/memories-ghpages/index.html",
+    "static/css/main.b13088e0.chunk.css.map": "/memories-ghpages/static/css/main.b13088e0.chunk.css.map",
+    "static/js/2.f2ea064c.chunk.js.LICENSE.txt": "/memories-ghpages/static/js/2.f2ea064c.chunk.js.LICENSE.txt",
+    "static/js/main.2082d0e1.chunk.js.LICENSE.txt": "/memories-ghpages/static/js/main.2082d0e1.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/memories-ghpages/static/media/cameraLogo.b9fb983f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9f48d74.js",
+    "static/js/2.f2ea064c.chunk.js",
+    "static/css/main.b13088e0.chunk.css",
+    "static/js/main.2082d0e1.chunk.js"
+  ]
+}
